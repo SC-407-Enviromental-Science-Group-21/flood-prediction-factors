@@ -1,3 +1,2 @@
 # flood-prediction-factors
-
-https://colab.research.google.com/github/SC-407-Enviromental-Science-Group-21/flood-prediction-factors/blob/main/flood-prediction-factors.ipynb
+[colab](https://colab.research.google.com/drive/1tLpllgRZF40Lcp7uB5vXmOadqBkARIfb?usp=sharing)
